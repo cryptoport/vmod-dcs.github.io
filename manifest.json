@@ -1,0 +1,25 @@
+{
+  "short_name": "POPOWI",
+  "nama": "POPOWI",
+  "ikon": [
+    {
+      "src": "favicon.ico",
+      "ukuran": "64x64 32x32 24x24 16x16",
+      "type": "gambar/ikon-x"
+    },
+    {
+      "src": "logo192.png",
+      "ketik": "gambar/png",
+      "ukuran": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "ketik": "gambar/png",
+      "ukuran": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "tampilan": "mandiri",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
